@@ -3,7 +3,7 @@ a user script for exporting canvas SpeedGrader data in the Chrome browser, based
 
 ### Installation
 
-- Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/)
+- Install the [Tampermonkey](https://www.tampermonkey.net/) userscript manager.
 - Select Tampermonkey from the Chrome extensions dropdown menu.
 - Select "Create a new script"
 - In the script editor that opens, replace the default content with the content of the `export_rubric_scores.js` file from this repo.
