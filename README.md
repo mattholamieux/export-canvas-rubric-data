@@ -1,5 +1,5 @@
 # export-canvas-rubric-data
-a user script for exporting canvas SpeedGrader data in the Chrome browser, based on a similar script created by [CUBoulder-OIT](https://github.com/CUBoulder-OIT/canvas-userscripts)
+a user script for exporting canvas SpeedGrader data in the Chrome browser, based on a script created by [CUBoulder-OIT](https://github.com/CUBoulder-OIT/canvas-userscripts)
 
 ### Installation
 
